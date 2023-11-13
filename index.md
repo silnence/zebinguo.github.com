@@ -16,6 +16,19 @@
 
 ### Educational Pxperience
 
+<table border="1">
+<tr>
+  <td>2022.09-now </td>
+  <td>Qinghai University</td>
+  <td>Postgraduate</td>
+</tr>
+<tr>
+  <td>2016.09-2020.07</td>
+  <td>Fuzhou University</td>
+  <td>Bachelor Degree</td>
+</tr>
+</table>
+
 |time|position|a|
 |:--------------|:-----------------|:--------------|
 |2022.09-now    |Qinghai University|Postgraduate   |
