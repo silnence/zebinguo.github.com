@@ -1,3 +1,4 @@
+<div>
 <table border="0">
   <tr>
     <td width="75%">
@@ -7,6 +8,7 @@
       <p><b>E-mail：1187957823@qq.com</b></p>
   </tr>
 </table>
+<div>
 
 ### Educational Pxperience
 |time|position|a|
