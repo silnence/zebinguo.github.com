@@ -9,5 +9,7 @@
 </table>
 
 ### Educational Pxperience
-2022.09-now       Qinghai University    Postgraduate
-2016.09-2020.07   Fuzhou University     Bachelor Degree
+|time|position|a|
+|-|-|-|
+|2022.09-now|Qinghai University|Postgraduate|
+|2016.09-2020.07|Fuzhou University|Bachelor Degree|
