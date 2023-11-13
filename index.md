@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-<div>
+</div>
 
 ### Educational Pxperience
 |time|position|a|
