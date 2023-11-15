@@ -16,7 +16,7 @@
 
 ### Educational Pxperience
 
-|time           |position          |a              |
+|time           |Institution  |Position       |
 |:--------------|:-----------------|:--------------|
 |2022.09-now    |Qinghai University|Postgraduate   |
 |2016.09-2020.07|Fuzhou University |Bachelor Degree|
