@@ -8,7 +8,7 @@
       <p><b>E-mail：1187957823@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/guozebin.jpg" width="100%">      % 插入证件照代码
+      <img src="/guozebin.jpg" width="100%"> 
     </td>
   </tr>
 </table>
